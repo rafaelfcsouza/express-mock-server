@@ -1,0 +1,14 @@
+{
+  "name": "mock-server",
+  "version": "0.0.1",
+  "description": "sample mock server",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.13.3"
+  },
+  "author": "Rafael Souza",
+  "license": "MIT"
+}
