@@ -1,0 +1,9 @@
+{
+  "path": "/test",
+  "get": {
+    "status": 200,
+    "body": {
+      "something": "something"
+    }
+  }
+}
