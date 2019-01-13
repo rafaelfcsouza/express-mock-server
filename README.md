@@ -26,4 +26,6 @@ Examples
 
 ## How to use
 
-`npm start "<path_to_route_files>`
+`npm start "<path_to_route_files>"`
+
+If no path is provided as argument `./routes` will be used.
